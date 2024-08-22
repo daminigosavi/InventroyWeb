@@ -20,6 +20,8 @@ import com.damini.inventorydb.RawMaterial;
 
 @Controller
 public class MainController {
+
+	
 	@Autowired
 	Manager manager;
 	@Autowired
